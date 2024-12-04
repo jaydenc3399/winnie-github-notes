@@ -1,4 +1,6 @@
 ## GitHub notes  
+---
+This is a repo for notes on Git, Github, Repo, and Commit.  
  **Git**:   
 * version control software
 * Collaboration
